@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Such</string>
+
+    <string name="apiUrl">https://openapi.naver.com/v1/search/movie.xml?display=50&amp;start=1&amp;query=</string>
+    <string name="clientId">lazU9bSyaoTyAexDLARv</string>
+    <string name="clientSecret">zhRH5Nixzh</string>
+
+    <string name="googleApiKey">AIzaSyCdVvEuuXRfTXR0K-41aW3bEmEzn7ARA94</string>
+    <string name="init_lat">37.55527</string>
+    <string name="init_lng">126.970762</string>
+
+</resources>
